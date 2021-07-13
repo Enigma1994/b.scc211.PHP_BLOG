@@ -1,0 +1,20 @@
+{
+  "name": "cyj/blog",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "src/util.php"
+    ],
+    "psr-4": {
+      "App\\": "src/app"
+    }
+  },
+  "authors": [
+    {
+      "name": "scc2111",
+      "email": "scc2111@naver.com"
+    }
+  ],
+  "require": {}
+}
